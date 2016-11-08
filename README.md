@@ -1,0 +1,1 @@
+In this project, I implemented a simplified hybrid video codec with coding tools like intra prediction, inter prediction (with motion estimation), 4 × 4 integer DCT transform, quan- tization, etc. The impact of intra prediction and motion estimation on the codec’s performance was investigated.
